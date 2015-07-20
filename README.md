@@ -1,1 +1,1 @@
-Project has been moved to [https://github.com/allegro/kafka-offset-monitor-graphite](kafka-offset-monitor-graphite)
+Project has been moved to [kafka-offset-monitor-graphite](https://github.com/allegro/kafka-offset-monitor-graphite).
